@@ -1,0 +1,13 @@
+/home/lxj_c32/AscendProjects/GPIO/build/cmake/CMakeFiles/install/strip.dir
+/home/lxj_c32/AscendProjects/GPIO/build/cmake/CMakeFiles/install.dir
+/home/lxj_c32/AscendProjects/GPIO/build/cmake/CMakeFiles/install/local.dir
+/home/lxj_c32/AscendProjects/GPIO/build/cmake/CMakeFiles/list_install_components.dir
+/home/lxj_c32/AscendProjects/GPIO/build/cmake/CMakeFiles/edit_cache.dir
+/home/lxj_c32/AscendProjects/GPIO/build/cmake/CMakeFiles/rebuild_cache.dir
+/home/lxj_c32/AscendProjects/GPIO/build/cmake/projroot/src/CMakeFiles/install/strip.dir
+/home/lxj_c32/AscendProjects/GPIO/build/cmake/projroot/src/CMakeFiles/edit_cache.dir
+/home/lxj_c32/AscendProjects/GPIO/build/cmake/projroot/src/CMakeFiles/Device.dir
+/home/lxj_c32/AscendProjects/GPIO/build/cmake/projroot/src/CMakeFiles/rebuild_cache.dir
+/home/lxj_c32/AscendProjects/GPIO/build/cmake/projroot/src/CMakeFiles/list_install_components.dir
+/home/lxj_c32/AscendProjects/GPIO/build/cmake/projroot/src/CMakeFiles/install/local.dir
+/home/lxj_c32/AscendProjects/GPIO/build/cmake/projroot/src/CMakeFiles/install.dir
